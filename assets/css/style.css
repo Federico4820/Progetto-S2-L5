@@ -1,0 +1,123 @@
+header{
+    background-color: #222F3F;
+}
+
+body{
+    background-color: #E9EDEE;
+    font-family: sans-serif;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+.logo{
+    width:10%;
+}
+
+nav ul li{
+    display: inline;
+    padding-right:2em;
+    color: white;
+}
+
+nav div{
+    height: 2.2em;
+    width: 100%;
+    padding-left: 3em;
+    background-color: #364759;
+    align-content: center;
+}
+
+main div{
+    margin:2em;
+}
+
+.orange{
+    background-color: #F56600;
+    color: white;
+    text-align: center;
+    align-content: center;
+    height: 2em;
+}
+
+.imgPacchi{
+    background-image:url(../img/bg-image.png);
+    background-position: center;
+    color: white;
+    text-align: center;
+    height: 10em;
+    align-content: center;
+    font-weight: bold;
+}
+
+.linea{
+    display: inline;
+}
+
+.fakeLink{
+    display: inline;
+    margin: 5px;
+    color: #388A9C;
+    font-weight: bold;
+}
+
+.foto{
+    background-color: white;
+    padding: 1em;
+}
+
+.paragrafi{
+    align-content: center;
+    height: 2vh;
+    padding-bottom: 1em;
+}
+
+.tonde{
+    border-radius: 10%;
+    box-shadow: 5px 5px 10px gray;
+    width: 25em;
+    margin-left: 7em;
+    min-height: 30em;
+}
+
+.inLine{
+    display: inline;
+} 
+
+.vr{
+    width: 100%;
+}
+
+.divVr{
+    margin-bottom: 0;
+}
+
+.paragrafi2{
+    text-align: center;
+    margin-top: 0;
+}
+
+footer{
+    background-color: #222F3F;
+    height: 8em;
+}
+
+footer div{
+    margin: 0;
+    text-align: center;
+    align-content: center;
+}
+
+.backBotton{
+    background-color: #364759;
+    height: 2em;
+}
+
+a{
+    color: white;
+}
+
+.logoBottom{
+    width: 10%;
+}
